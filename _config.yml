@@ -4,7 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: Harrison Dekker
+name: vagrant scholar
 url: https://vagrantscholar.github.io/workshops
 description: Ruminations of a vagrant scholar.
 twitter: vagrantscholar
